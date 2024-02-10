@@ -1,0 +1,13 @@
+name = "Custom Paintings"
+filename = "custompaintings-2.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ypw1upV6/versions/5mjQVQon/custompaintings-2.1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "5906e520b7b6bde43f5c9eca45bef3ce2912892a"
+
+[update]
+[update.modrinth]
+mod-id = "ypw1upV6"
+version = "5mjQVQon"

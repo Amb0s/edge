@@ -1,0 +1,13 @@
+name = "Elemental Creepers: Refabricated"
+filename = "elementalcreepers-1.4.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qzYBjVGU/versions/9G3zPy0O/elementalcreepers-1.4.3%2B1.20.jar"
+hash-format = "sha1"
+hash = "9191236de1c5dab7aa2a52dadf9a3fae55feefcb"
+
+[update]
+[update.modrinth]
+mod-id = "qzYBjVGU"
+version = "9G3zPy0O"
